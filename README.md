@@ -6,6 +6,8 @@ A fast and interactive web-based **Sentence Construction Tool** built with **Vit
 
 👉 [https://sentence-construction-tool-ramganga.netlify.app/](https://sentence-construction-tool-ramganga.netlify.app/)
 
+![Sentence Construction Tool Screenshot](https://raw.githubusercontent.com/ramganga911/Sentence-Construction-Tool/main/src/assets/image.png)
+
 ## 🚀 Features
 
 - ⏱️ **30-Second Timer** for each question
