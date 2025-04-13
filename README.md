@@ -56,7 +56,6 @@ To run this project locally, follow these steps:
 ## Usage
 1. Open your browser and navigate to http://localhost:3000 (or the specified URL).
 2. Use the tools provided to construct sentences interactively.
-3. Explore additional features like grammar validation and vocabulary customization.
    
 ## 🙌 Author
 Made with by Ramganga Kumar
