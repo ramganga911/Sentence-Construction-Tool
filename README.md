@@ -7,6 +7,10 @@ A fast and interactive web-based **Sentence Construction Tool** built with **Vit
 👉 [https://sentence-construction-tool-ramganga.netlify.app/](https://sentence-construction-tool-ramganga.netlify.app/)
 
 ![Sentence Construction Tool Screenshot](https://raw.githubusercontent.com/ramganga911/Sentence-Construction-Tool/main/src/assets/image.png)
+![Sentence Construction Tool Screenshot](https://raw.githubusercontent.com/ramganga911/Sentence-Construction-Tool/main/src/assets/image2.png)
+![Sentence Construction Tool Screenshot](https://raw.githubusercontent.com/ramganga911/Sentence-Construction-Tool/main/src/assets/image3.png)
+![Sentence Construction Tool Screenshot](https://raw.githubusercontent.com/ramganga911/Sentence-Construction-Tool/main/src/assets/image4.png)
+
 
 ## 🚀 Features
 
