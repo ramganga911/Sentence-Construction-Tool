@@ -1,21 +1,31 @@
-# Sentence Construction Tool
+# 🧠 Sentence Construction Tool
 
-The Sentence Construction Tool is a powerful application designed to assist users in building grammatically correct and meaningful sentences. Built primarily using TypeScript, this tool is designed for developers, linguists, and anyone interested in improving sentence construction.
+A fast and interactive web-based **Sentence Construction Tool** built with **Vite + React**, **Tailwind CSS**, and a **JSON Server backend**. This tool helps users improve their sentence-making skills under time pressure, making it ideal for English language learners and test-takers.
 
-## Features
+## 🚀 Features
 
-- **Interactive Sentence Building**: Helps users construct sentences step-by-step.
-- **Grammar Validation**: Validates grammar and syntax in real-time.
-- **Customizable Vocabulary**: Allows users to add custom words and phrases to the vocabulary.
-- **User-Friendly Interface**: Simple and intuitive design.
-- **Cross-Platform Compatibility**: Works seamlessly on modern web browsers.
+- ⏱️ **30-Second Timer** for each question
+- 🔁 **Auto-Navigation** to the next question after time runs out
+- ✅ **Feedback & Scoring Screen** after all questions
+- 🎯 Randomized sentence construction questions
+- 📦 Backend powered by **JSON Server**
 
-## Technologies Used
+## 🛠️ Tech Stack
 
-- **TypeScript**: Core programming language for the application.
-- **JavaScript**: For additional functionality.
-- **CSS**: For styling the user interface.
-- **HTML**: For structuring the UI.
+- **Frontend**: Vite + React, Tailwind CSS
+- **Backend**: JSON Server (for mock REST API)
+- **State Management**: React Hooks
+- **Other Tools**: React Router
+
+## How It Works
+Each sentence construction question appears with a 30-second countdown.
+Users arrange words into the correct sentence.
+After time runs out, the app automatically navigates to the next question.
+After all questions are attempted, a feedback screen shows the final score and correct answers.
+
+## 📸 Demo
+
+Coming Soon! (You can add a hosted link or GIF preview here)
 
 ## Installation
 
@@ -37,6 +47,9 @@ To run this project locally, follow these steps:
 1. Open your browser and navigate to http://localhost:3000 (or the specified URL).
 2. Use the tools provided to construct sentences interactively.
 3. Explore additional features like grammar validation and vocabulary customization.
+   
+## 🙌 Author
+Made with by Ramganga Kumar
 
 ## License 
 This project is licensed under the MIT License.
