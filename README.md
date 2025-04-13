@@ -2,6 +2,10 @@
 
 A fast and interactive web-based **Sentence Construction Tool** built with **Vite + React**, **Tailwind CSS**, and a **JSON Server backend**. This tool helps users improve their sentence-making skills under time pressure, making it ideal for English language learners and test-takers.
 
+## 🔗 Live Demo
+
+👉 [https://sentence-construction-tool-ramganga.netlify.app/](https://sentence-construction-tool-ramganga.netlify.app/)
+
 ## 🚀 Features
 
 - ⏱️ **30-Second Timer** for each question
